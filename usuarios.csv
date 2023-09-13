@@ -1,0 +1,40 @@
+ID,Nome,Idade,Profissao,Renda,Mensagem
+105,marcelo,35,Analista de Dados,4500.0,OlÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡! Aqui estÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o algumas dicas econÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ´micas para economizar dinheiro.
+106,joao,45,Professor,3800.0,Lembre-se de controlar seus gastos e fazer um orÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§amento mensal.
+107,fernanda,58,MÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©dica,6000.0,Investir em educaÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o financeira pode ajudar a alcanÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ar suas metas financeiras.
+108,Lucas,25,Advogado,7500.0,Considere criar uma reserva de emergÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂªncia para imprevistos.
+101,BOB,25,Analista de Dados,4500.0,Lembre-se de controlar seus gastos e fazer um orÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§amento mensal.
+102,Carlos,35,Professor,3800.0,Investir em educaÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o financeira pode ajudar a alcanÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ar suas metas financeiras.
+103,Eva,28,MÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©dica,6000.0,Considere criar uma reserva de emergÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂªncia para imprevistos.
+104,Lucas,45,Advogado,7500.0,Poupar regularmente ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© uma ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³tima maneira de construir riqueza ao longo do tempo.
+109,BOB,25,Analista de Dados,4500.0,Poupar regularmente ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© uma ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³tima maneira de construir riqueza ao longo do tempo.
+110,Carlos,35,Professor,3800.0,OlÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡! Aqui estÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o algumas dicas econÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ´micas para economizar dinheiro.
+111,Eva,28,MÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©dica,6000.0,Lembre-se de controlar seus gastos e fazer um orÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§amento mensal.
+112,Lucas,45,Advogado,7500.0,Investir em educaÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o financeira pode ajudar a alcanÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ar suas metas financeiras.
+109,BOB,25,Analista de Dados,4500.0,Poupar regularmente ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ© uma ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ³tima maneira de construir riqueza ao longo do tempo.
+110,Carlos,35,Professor,3800.0,OlÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡! Aqui estÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o algumas dicas econÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ´micas para economizar dinheiro.
+111,Eva,28,MÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©dica,6000.0,Lembre-se de controlar seus gastos e fazer um orÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§amento mensal.
+112,Lucas,45,Advogado,7500.0,Investir em educaÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o financeira pode ajudar a alcanÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ar suas metas financeiras.
+113,BOB,25,Analista de Dados,4500.0,Ensine educaÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ§ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o financeira aos seus filhos para preparÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¡-los para o futuro.
+114,Carlos,35,Professor,3800.0,Economize em energia desligando dispositivos eletrÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ´nicos quando nÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ£o estiverem em uso.
+115,Eva,28,MÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ©dica,6000.0,Considere cozinhar em casa em vez de jantar fora para economizar dinheiro.
+201,Lucas,45,Advogado,7500.0,escreva uma mensagem para o usuario
+117,BOB,25,Analista de Dados,4500.0,Reavalie seus planos de celular e internet para economizar em despesas mensais.
+118,Carlos,35,Professor,3800.0,Resista a compras por impulso e pense antes de gastar em itens nÃÂÃÂÃÂÃÂ£o essenciais.
+119,Eva,28,MÃÂÃÂ©dica,6000.0,FaÃÂÃÂÃÂÃÂ§a um planejamento financeiro anual para acompanhar seu progresso e ajustar seu orÃÂÃÂÃÂÃÂ§amento.
+120,Lucas,45,Advogado,7500.0,OlÃÂÃÂÃÂÃÂ¡! Aqui estÃÂÃÂÃÂÃÂ£o algumas dicas econÃÂÃÂÃÂÃÂ´micas para economizar dinheiro.
+121,BOB,25,Analista de Dados,4500.0,Lembre-se de controlar seus gastos e fazer um orÃÂÃÂ§amento mensal.
+122,Carlos,35,Professor,3800.0,Investir em educaÃÂÃÂ§ÃÂÃÂ£o financeira pode ajudar a alcanÃÂÃÂ§ar suas metas financeiras.
+123,Eva,28,MÃÂ©dica,6000.0,Considere criar uma reserva de emergÃÂÃÂªncia para imprevistos.
+124,Lucas,45,Advogado,7500.0,Poupar regularmente ÃÂÃÂ© uma ÃÂÃÂ³tima maneira de construir riqueza ao longo do tempo.
+125,BOB,25,Analista de Dados,4500.0,Evite dÃÂÃÂ­vidas de cartÃÂÃÂ£o de crÃÂÃÂ©dito com altas taxas de juros.
+126,Carlos,35,Professor,3800.0,Pesquise e compare preÃÂÃÂ§os antes de fazer compras importantes.
+127,Eva,28,MÃÂ©dica,6000.0,Automatize suas economias transferindo dinheiro para uma conta de poupanÃÂÃÂ§a automaticamente.
+128,Lucas,45,Advogado,7500.0,Reduza despesas desnecessÃÂÃÂ¡rias para aumentar suas economias.
+129,BOB,25,Analista de Dados,4500.0,Acompanhe seus gastos em um aplicativo financeiro para tomar decisÃÂµes informadas.
+130,Carlos,35,Professor,3800.0,Aprenda sobre investimentos e diversifique sua carteira para reduzir riscos.
+usuario_id,nome,idade,profissao,renda,mensagem
+131,BOB,25,Analista de Dados,4500.0,Estabeleça metas financeiras de curto e longo prazo para se manter motivado.
+132,Carlos,35,Professor,3800.0,Participe de programas de fidelidade para economizar em compras frequentes.
+133,Eva,28,M�dica,6000.0,Ensine educação financeira aos seus filhos para prepará-los para o futuro.
+134,Lucas,45,Advogado,7500.0,Economize em energia desligando dispositivos eletrônicos quando não estiverem em uso.

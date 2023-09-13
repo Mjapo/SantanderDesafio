@@ -1,0 +1,26 @@
+{
+    "nome": "João Silva",
+    "idade": 30,
+    "email": "joao@example.com",
+    "cidade": "São Paulo"
+}
+
+
+
+
+{
+    "nome": "Smartphone",
+    "preco": 799.99,
+    "descricao": "Um smartphone de última geração com câmera de alta resolução.",
+    "fabricante": "Marca XYZ"
+}
+
+
+{
+    "titulo": "Como Criar Modelos JSON",
+    "conteudo": "Neste artigo, explicamos como criar modelos de JSON para inserir dados em um banco de dados...",
+    "autor": "Autor123",
+    "data_publicacao": "2023-09-11"
+}
+
+  
