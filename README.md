@@ -1,7 +1,5 @@
-# SatanderDesafio
+# SantanderDesafio
 
-
-# Santander DEV
 
 
 # ETL para Inserção de Usuários e Geração de CSV
